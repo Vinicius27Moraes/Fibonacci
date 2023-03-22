@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-int main(void) 
+int main() 
 {
     int n=1,a,soma=0,n1=0,resu=0,cont=0;    
     printf("Informe um numero para calcular a sequencia de Fibonacci: \n ");
